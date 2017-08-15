@@ -1,0 +1,5 @@
+1) To calculate p-value :- www.graphpad.com
+
+2) To learn about stroop effect :- https://en.wikipedia.org/wiki/Stroop_effect
+				   https://faculty.washington.edu/chudler/java/strvote.html
+	
